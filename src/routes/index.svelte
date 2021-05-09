@@ -40,10 +40,10 @@
 	export let stories;
 </script>
 
-<Svelte:head>
+<svelte:head>
 	<title>SecureGrowthDigital</title>
 	<meta name="description" content="SecrueGrowthDigital is Web Design and Online Marketing Agency, helping accountants get more clients">
-</Svelte:head>
+</svelte:head>
 
 <Header />
 
