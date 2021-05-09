@@ -24,7 +24,7 @@
 
 	<img
 		class="h-96 w-full object-cover filter brightness-50"
-		src="https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80"
+		src="images/hero.jpeg"
 		alt=""
 	/>
 	<div class="absolute inset-0 z-10 flex justify-center items-center text-center px-2 sm:px-48">
