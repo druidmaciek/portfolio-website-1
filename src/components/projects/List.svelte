@@ -20,7 +20,7 @@
             
         </dl>
         <dl class="mt-24 space-y-10 lg:space-y-0 lg:grid lg:grid-cols-2 lg:gap-16">
-			<a href="https://www.micro-accounting.com" target="_blank">
+			<a href="https://www.micro-accounting.com" rel="noopener" target="_blank">
 				<dt>
 					<img class="rounded shadow-lg " src="screenshots/1.png" alt="MicroAccounting website" />
 					<p class="my-5 text-lg leading-6 font-medium text-gray-900 sm:text-center">
@@ -29,7 +29,7 @@
 				</dt>
 			</a>
 
-            <a href="https://www.insight-accountants.com" target="_blank">
+            <a href="https://www.insight-accountants.com" rel="noopener" target="_blank">
 				<dt>
 					<img class="rounded shadow-lg " src="screenshots/2.png" alt="Insight Accountants Website" />
 					<p class="my-5 text-lg leading-6 font-medium text-gray-900 sm:text-center">
