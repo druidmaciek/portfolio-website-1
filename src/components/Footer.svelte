@@ -22,7 +22,7 @@
       </nav>
       
       <p class="mt-8 text-center text-base text-gray-400">
-        &copy; 2021 AccountWeb, Inc. All rights reserved.
+        &copy; 2021 Secure Growth Digital All rights reserved.
       </p>
     </div>
   </footer>

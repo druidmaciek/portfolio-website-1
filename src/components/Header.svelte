@@ -1,6 +1,7 @@
+
 <header class="relative bg-blue-500">
 	<div class="text-white absolute top-0 left-0 z-20 px-12 mt-2">
-		<a href="/" class="font-black text-white text-xl underline">AccountWeb</a>
+		<a href="/" class="font-light tracking-widest text-white text-xl">SecureGrowthDigital</a>
 	</div>
 	<div class="text-white absolute top-0 right-0 z-20 px-12 mt-2">
 		<a class="mr-4 hover:text-gray-100 hover:underline" href="/tips"

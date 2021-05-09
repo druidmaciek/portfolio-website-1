@@ -6,10 +6,6 @@
     import Services from "../components/service/List.svelte";
     import Projects from "../components/projects/List.svelte";
     import Contact from "../components/Contact.svelte";
-    import Footer from "../components/Footer.svelte";
-    
-
-
 
 </script>
 
@@ -31,8 +27,8 @@
 
 <Layout>
     <H2>Request a Quote</H2>
-    <p class="-mt-8 text-gray-700 text-center">Fill the form below for a quote or send us a message on <span class="underline font-semibold">dupa@mal.com</span> </p>
+    <p class="-mt-8 text-gray-700 text-center">Fill the form below for a quote or send us a message on <span class="underline font-semibold">support@securegrowthdigital.com</span> </p>
     <Contact/>
 </Layout>
 
-<Footer/>
+
