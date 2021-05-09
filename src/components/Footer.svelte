@@ -8,11 +8,11 @@
           </a>
         </div>
   
-        <div class="px-5 py-2">
+        <!-- <div class="px-5 py-2">
           <a href="/about" class="text-base text-gray-500 hover:text-gray-900">
             About Me
           </a>
-        </div>
+        </div> -->
   
         <div class="px-5 py-2">
           <a href="#contact" class="text-base text-gray-500 hover:text-gray-900">
