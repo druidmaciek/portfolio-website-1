@@ -6,10 +6,12 @@
 </script>
 
 <div class="pt-6">
-	<div class="flex justify-between items-center text-gray-900">
-		<img class="h-44 w-64 rounded shadow-lg" src={image} alt={title} />
+	
+	<div class="sm:flex sm:justify-between sm:items-center text-gray-900">
+		<img class="hidden sm:block h-44 w-64 rounded shadow-lg" src={image} alt={title} />
+		<img class="block sm:hidden h-64 w-full object-cover rounded shadow-lg" src={image} alt={title} />
 
-		<div class="px-12">
+		<div class="mt-4 sm:mt-0 sm:px-12">
 			<h3 class="text-xl ">{title}</h3>
 			<p class="mt-0.5 text-sm">{description}</p>
 			<div class="mt-1 pr-24">
@@ -17,4 +19,5 @@
 			</div>
 		</div>
 	</div>
+
 </div>
