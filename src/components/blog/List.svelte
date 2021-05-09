@@ -7,7 +7,7 @@
 <div class="space-y-6 divide-y">
 	{#each stories as story, i}
 		{#if featured}
-			{#if i == 1}
+			{#if i == 0}
 				<Blog {story} />
 			{/if}
 		{:else}
