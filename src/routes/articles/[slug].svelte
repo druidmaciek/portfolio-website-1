@@ -42,7 +42,7 @@
 
 <svelte:head>
 	<title>{article.content.title}</title>
-	<meta name="description" content="{article.cotnent.meta_description}">
+	<meta name="description" content="{article.content.meta_description}">
 </svelte:head>
 
 <Navbar />
