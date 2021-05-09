@@ -2,7 +2,7 @@
 	<div class="block sm:hidden">
 		<div class="text-white absolute top-0 z-20 px-2 mt-2">
 			<a href="/" class="font-light tracking-widest text-white text-xl">SecureGrowthDigital</a>
-			<div class="mt-1 text-center text-sm">
+			<div class="mt-2 sm:mt-1 text-center text-sm">
 				<a class="mr-4 hover:text-gray-100 hover:underline" href="/articles"
 					>Growth Tips for Accountants</a
 				>
