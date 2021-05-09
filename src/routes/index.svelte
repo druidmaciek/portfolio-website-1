@@ -8,7 +8,7 @@
 		//const url = 'http://api.plos.org/search?q=ht';//`/articles/${page.params.slug}.json`;
 		//const res = await fetch(url);
         
-        const url = 'cdn/stories/?starts_with=articles/';
+        const url = 'cdn/stories/?starts_with=articles/&sort_by=first_published_at:asc';
         const res = await client.get(url)
         //console.log(res.data.story);
 
