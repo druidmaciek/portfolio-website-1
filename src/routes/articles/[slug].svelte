@@ -40,6 +40,11 @@
 </script>
 
 
+<svelte:head>
+	<title>{article.content.title}</title>
+	<meta name="description" content="{article.cotnent.meta_description}">
+</svelte:head>
+
 <Navbar />
 <Layout>
     <img class="h-64 w-full object-cover object-center rounded shadow-lg" src="{article.content.image}" alt="{article.content.title}">

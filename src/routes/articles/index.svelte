@@ -37,6 +37,11 @@
 	export let stories;
 </script>
 
+<svelte:head>
+	<title>Growth Tips for Accountants</title>
+	<meta name="description" content="SecrueGrowthDigital is Web Design and Online Marketing Agency, helping accountants get more clients">
+</svelte:head>
+
 <Navbar />
 <Layout>
 	<H2>Growth Tips for Accountants</H2>
