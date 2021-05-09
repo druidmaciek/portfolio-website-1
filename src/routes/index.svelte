@@ -42,6 +42,7 @@
 
 <Svelte:head>
 	<title>SecureGrowthDigital</title>
+	<meta name="description" content="SecrueGrowthDigital is Web Design and Online Marketing Agency, helping accountants get more clients">
 </Svelte:head>
 
 <Header />
