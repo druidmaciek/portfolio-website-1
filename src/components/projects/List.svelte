@@ -20,23 +20,23 @@
             
         </dl>
         <dl class="mt-24 space-y-10 lg:space-y-0 lg:grid lg:grid-cols-2 lg:gap-16">
-			<div>
+			<a href="http://web-1-eight.vercel.app" target="_blank">
 				<dt>
 					<img class="rounded shadow-lg " src="screenshots/1.png" alt="MicroAccounting website" />
 					<p class="mt-5 text-lg leading-6 font-medium text-gray-900 sm:text-center">
 						MicroAccounting
 					</p>
 				</dt>
-			</div>
+			</a>
 
-            <div>
+            <a href="http://web-2.vercel.app" target="_blank">
 				<dt>
 					<img class="rounded shadow-lg " src="screenshots/2.png" alt="Insight Accountants Website" />
 					<p class="mt-5 text-lg leading-6 font-medium text-gray-900 sm:text-center">
 						Insight Accountants
 					</p>
 				</dt>
-			</div>
+			</a>
 
 		</dl>
 	</div>
