@@ -40,6 +40,9 @@
 	export let stories;
 </script>
 
+<Svelte:head>
+	<title>SecureGrowthDigital</title>
+</Svelte:head>
 
 <Header />
 
