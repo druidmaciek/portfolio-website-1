@@ -4,17 +4,14 @@
 
 <div class="pt-6">
 	
-	<div class="sm:flex sm:justify-start sm:items-center text-gray-900">
+	<div class="sm:flex sm:justify-start sm:items-start text-gray-900">
 		<img class="hidden sm:block h-44 w-64 rounded shadow-lg" src={story.content.image} alt={story.content.title} />
 		<img class="block sm:hidden h-64 w-full object-cover rounded shadow-lg" src={story.content.image} alt={story.content.title} />
 
 		<div class="mt-4 sm:mt-0 sm:px-12">
-			<h3 class="text-xl ">{story.content.title}</h3>
+			<a href="{story.full_slug}" class="text-xl hover:underline">{story.content.title}</a>
 			<p class="mt-0.5 text-sm">{story.content.intro}</p>
-			<div class="mt-2 pr-24">
-				<p>Click here to <a href="{story.full_slug}" class="underline">Read More</a></p>
-				
-			</div>
+		
 		</div>
 	</div>
 
