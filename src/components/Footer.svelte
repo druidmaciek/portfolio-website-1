@@ -15,7 +15,7 @@
         </div> -->
   
         <div class="px-5 py-2">
-          <a href="#contact" class="text-base text-gray-500 hover:text-gray-900">
+          <a href="/#contact" class="text-base text-gray-500 hover:text-gray-900">
             Contact Me
           </a>
         </div>

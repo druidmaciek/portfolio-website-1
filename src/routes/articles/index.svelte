@@ -1,8 +1,8 @@
 <script>
-	import Layout from '../components/Layout.svelte';
-	import Blogs from '../components/blog/List.svelte';
-	import Navbar from '../components/Navbar.svelte';
-	import H2 from '../components/Heading.svelte';
+	import Layout from '../../components/Layout.svelte';
+	import Blogs from '../../components/blog/List.svelte';
+	import Navbar from '../../components/Navbar.svelte';
+	import H2 from '../../components/Heading.svelte';
 
 	import StoryblokClient from 'storyblok-js-client';
 	const client = new StoryblokClient({

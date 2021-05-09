@@ -21,6 +21,8 @@
   "type": "module",
   "dependencies": {
     "airtable": "^0.11.0",
+    "remarkable": "^2.0.1",
+    "storyblok-js-client": "^4.0.9",
     "svelte-mail": "^0.1.1"
   }
 }
