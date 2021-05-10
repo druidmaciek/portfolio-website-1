@@ -47,9 +47,9 @@
 
 <Navbar />
 <Layout>
-    <img class="h-64 w-full object-cover object-center rounded shadow-lg" src="{article.content.image}" alt="{article.content.title}">
-	<H2>{article.content.title}</H2>
-    <p class="text-gray-700 text-sm text-center -mt-12 mb-12">Last Updated: {article.published_at.split("T")[0]}</p>
+    <img class="h-64 border border-gray-200 w-full object-cover object-center rounded shadow-lg" src="{article.content.image}" alt="{article.content.title}">
+	<h1 class="mt-12 text-gray-900 text-center text-4xl font-semibold">{article.content.title}</h1>
+    <p class="text-gray-700 text-sm text-center mb-12">Last Updated: {article.published_at.split("T")[0]}</p>
     <div class="prose prose-indigo prose-lg text-gray-500 mx-auto">
         {@html md.render(article.content.long_text)}
     </div>

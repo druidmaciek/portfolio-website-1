@@ -38,12 +38,13 @@
 </script>
 
 <svelte:head>
-	<title>Growth Tips for Accountants</title>
-	<meta name="description" content="Read our Growt Tips to learn how to improve your accounting business and get more clients">
+	<title>Growth Tips and helpful articles for Accountants by SecureGrowthDigital</title>
+	<meta name="description" content="Read our Growth Tips to learn how to improve your accounting business and get more clients">
 </svelte:head>
 
 <Navbar />
 <Layout>
-	<H2>Growth Tips for Accountants</H2>
+	<h1 class=" text-gray-900 text-center text-4xl font-semibold">Growth Tips for Accountants</h1>
+	<p class="mb-12 text-gray-700 text-sm text-center">Read our Growth Tips to learn how to improve your accounting business and get more clients</p>
 	<Blogs {stories} featured={false} />
 </Layout>

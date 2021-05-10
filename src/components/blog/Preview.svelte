@@ -8,9 +8,9 @@
 		<img class="hidden sm:block h-44 w-64 rounded shadow-lg" src={story.content.image} alt={story.content.title} />
 		<img class="block sm:hidden h-64 w-full object-cover rounded shadow-lg" src={story.content.image} alt={story.content.title} />
 
-		<div class="mt-4 sm:mt-0 sm:px-12">
-			<a href="{story.full_slug}" class="text-xl hover:underline">{story.content.title}</a>
-			<p class="mt-0.5 text-sm">{story.content.intro}</p>
+		<div class="mt-4 sm:mt-4 sm:px-12">
+			<a href="{story.full_slug}" class="text-2xl hover:underline">{story.content.title}</a>
+			<p class="mt-0.5">{story.content.intro}</p>
 		
 		</div>
 	</div>
