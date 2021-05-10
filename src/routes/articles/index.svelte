@@ -39,7 +39,7 @@
 
 <svelte:head>
 	<title>Growth Tips for Accountants</title>
-	<meta name="description" content="SecrueGrowthDigital is Web Design and Online Marketing Agency, helping accountants get more clients">
+	<meta name="description" content="Read our Growt Tips to learn how to improve your accounting business and get more clients">
 </svelte:head>
 
 <Navbar />
